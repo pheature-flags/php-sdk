@@ -7,6 +7,12 @@
     "authors": [
         {
             "name": "kpicaza"
+        },
+        {
+            "name": "pcs289"
+        },
+        {
+            "name": "xserrat"
         }
     ],
     "require": {
@@ -31,7 +37,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Test\\Pheature\\Sdk\\": "test"
+            "Pheature\\Test\\Sdk\\": "test"
         }
     },
     "scripts": {
@@ -48,6 +54,11 @@
         "inspect": "phpstan analyse src -l7 --ansi",
         "psalm": "psalm",
         "test": "phpunit --colors=always"
+    },
+    "extra": {
+        "laminas": {
+            "config-provider": "Pheature\\Sdk\\Container\\ConfigProvider"
+        }
     },
     "config": {
         "sort-packages": true
