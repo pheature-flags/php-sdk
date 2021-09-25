@@ -1,8 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/pheature-flags/pheature-flags/tree/HEAD)
+## [v0.1.2](https://github.com/pheature-flags/pheature-flags/tree/v0.1.2)
 
-[Full Changelog](https://github.com/pheature-flags/pheature-flags/compare/v0.1.1...HEAD)
+[Full Changelog](https://github.com/pheature-flags/pheature-flags/compare/v0.1.1...v0.1.2)
+
+**Closed issues:**
+
+- [php-sdk] Create factories and config provider (@xserrat)
 
 ## [v0.1.1](https://github.com/pheature-flags/pheature-flags/tree/v0.1.1) (2021-06-20)
 
