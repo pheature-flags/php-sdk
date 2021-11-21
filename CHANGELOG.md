@@ -1,6 +1,26 @@
 # Changelog
 
-## [v0.2.0](https://github.com/pheature-flags/php-sdk/tree/0.2.0)
+## [0.3.0](https://github.com/pheature-flags/php-sdk/tree/0.3.0) (2021-11-21)
+
+[Full Changelog](https://github.com/pheature-flags/php-sdk/compare/0.2.0...0.3.0)
+
+**Implemented enhancements:**
+
+- \[php-sdk\] Update PhpStan to version 1 and level 9 [\#8](https://github.com/pheature-flags/php-sdk/issues/8)
+- \[php-sdk\] Add PHP 8.1 support [\#6](https://github.com/pheature-flags/php-sdk/issues/6)
+- \[\#6\] Add support for PHP 8.1 [\#12](https://github.com/pheature-flags/php-sdk/pull/12) (@kpicaza)
+- \[\#8\] Update PhpStan to version 1 and level 9 [\#9](https://github.com/pheature-flags/php-sdk/pull/9) (@kpicaza)
+
+**Closed issues:**
+
+- \[php-sdk\] update CI matrix PHP versions [\#10](https://github.com/pheature-flags/php-sdk/issues/10)
+
+**Merged pull requests:**
+
+- \[\#10\] Run CI both PHP 7.4 and 8.0 [\#11](https://github.com/pheature-flags/php-sdk/pull/11) (@kpicaza)
+- Update infection/infection requirement from ^0.23.0 to ^0.23.0 || ^0.25.0 [\#3](https://github.com/pheature-flags/php-sdk/pull/3) (@dependabot[bot])
+
+## [0.2.0](https://github.com/pheature-flags/php-sdk/tree/0.2.0) (2021-10-09)
 
 [Full Changelog](https://github.com/pheature-flags/php-sdk/compare/v0.1.2...0.2.0)
 
