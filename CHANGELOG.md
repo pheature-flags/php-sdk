@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.5.0](https://github.com/pheature-flags/php-sdk/tree/0.5.0)
+
+[Full Changelog](https://github.com/pheature-flags/php-sdk/compare/0.3.0...0.5.0)
+
+**Implemented enhancements:**
+
+- \[php-sdk\] Update issue template for bugs using new issue form in a YAML file [\#4](https://github.com/pheature-flags/php-sdk/issues/4)
+
+**Merged pull requests:**
+
+- bump interdependencies to ^0.5 [\#19](https://github.com/pheature-flags/php-sdk/pull/19) (@kpicaza)
+- allow executing some composer plugins in dev mode [\#16](https://github.com/pheature-flags/php-sdk/pull/16) (@kpicaza)
+- \[\#4\] Update Bug Report Template [\#13](https://github.com/pheature-flags/php-sdk/pull/13) (@pcs289)
+
 ## [0.3.0](https://github.com/pheature-flags/php-sdk/tree/0.3.0) (2021-11-21)
 
 [Full Changelog](https://github.com/pheature-flags/php-sdk/compare/0.2.0...0.3.0)
