@@ -1,6 +1,15 @@
 # Changelog
 
-## [0.5.0](https://github.com/pheature-flags/php-sdk/tree/0.5.0)
+## [0.7.0](https://github.com/pheature-flags/php-sdk/tree/0.7.0)
+
+[Full Changelog](https://github.com/pheature-flags/php-sdk/compare/0.5.0...0.7.0)
+
+**Merged pull requests:**
+
+- \[\#359\] Add PHP 8.2 support [\#23](https://github.com/pheature-flags/php-sdk/pull/23) (@kpicaza)
+- update dev dependencies [\#20](https://github.com/pheature-flags/php-sdk/pull/20) (@kpicaza)
+
+## [0.5.0](https://github.com/pheature-flags/php-sdk/tree/0.5.0) (2022-08-12)
 
 [Full Changelog](https://github.com/pheature-flags/php-sdk/compare/0.3.0...0.5.0)
 
