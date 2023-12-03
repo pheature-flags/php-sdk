@@ -1,6 +1,15 @@
 # Changelog
 
-## [0.7.1](https://github.com/pheature-flags/php-sdk/tree/0.7.1)
+## [0.8.0](https://github.com/pheature-flags/php-sdk/tree/0.8.0)
+
+[Full Changelog](https://github.com/pheature-flags/php-sdk/compare/0.7.1...0.8.0)
+
+**Merged pull requests:**
+
+- update psalm to 5.16 [\#27](https://github.com/pheature-flags/php-sdk/pull/27) (@kpicaza)
+- update php versions support [\#26](https://github.com/pheature-flags/php-sdk/pull/26) (@kpicaza)
+
+## [0.7.1](https://github.com/pheature-flags/php-sdk/tree/0.7.1) (2022-12-12)
 
 [Full Changelog](https://github.com/pheature-flags/php-sdk/compare/0.7.0...0.7.1)
 
